@@ -1,3 +1,6 @@
+# Introduction
+This project lets user get images and titles by typing in the keywords. It uses an interactive api https://www.artic.edu/ to get artworks and display when the user types and also change them accordingly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
