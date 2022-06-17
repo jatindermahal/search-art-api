@@ -1,6 +1,9 @@
 # Introduction
 This project lets user get images and titles by typing in the keywords. It uses an interactive api https://www.artic.edu/ to get artworks and display when the user types and also change them accordingly.
 
+# Deployed
+This app has been deployed at "https://search-art-api.vercel.app/". Please head on to this link for a working version of this app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
